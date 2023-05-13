@@ -1,0 +1,1 @@
+playsound entity.bat.death player @s ~ ~-13 ~ 1 1.5

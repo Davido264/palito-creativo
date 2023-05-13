@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{display:{Name:'{"text":"[Palito creativo]","color":"light_purple","bold":true,"underlined":true}',Lore:['{"text":"usado para cambiar de survival a creativo","color":"white","italic":true}']},HideFlags:5,RepairCost:99,Unbreakable:0b,CustomModelData:454554,isCreative:1b,Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s}]} 1
